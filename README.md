@@ -2,7 +2,7 @@
 ## Custom DST SpringWorkshop
 
 ## 12 - 1:30pm:
-- Overview of Sprint Boot application 'push' to Cloud Foundry
+- Overview of Spring Boot application 'push' to Cloud Foundry
 - Bind services using Spring Cloud Connector
 - Scale app, kill app (to illustrate restart), monitoring
 
