@@ -12,3 +12,12 @@
 - Build a CI pipeline with Concourse CI
 - Build Blue/Green & Canary deployments
 - Emulate patching a JVM vulnerability via buildpack upgrade
+
+## Links
+- Getting Started Guide 
+http://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry 
+- Cloud Foundry CLI
+
+- VirtualBox
+
+- Vagrant
