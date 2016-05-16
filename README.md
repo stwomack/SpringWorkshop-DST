@@ -15,9 +15,10 @@
 
 ## Links
 - Getting Started Guide 
-http://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry 
+- http://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry 
 - Cloud Foundry CLI
-
+- https://docs.cloudfoundry.org/cf-cli/install-go-cli.html
 - VirtualBox
-
+- https://www.virtualbox.org/wiki/Downloads
 - Vagrant
+- https://www.vagrantup.com/downloads.html
