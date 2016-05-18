@@ -3,8 +3,8 @@
 
 ## 12 - 1:30pm:
 - Overview of the Cloud Foundry Experience
-- Hands-on Spring Boot application 'push' to Cloud Foundry
-- Bind services using Spring Cloud Connector
+- [Hands-on Spring Boot application 'push' to Cloud Foundry] (https://github.com/stwomack/SpringWorkshop-DST/blob/master/docs/services.md)
+- [Bind services using Spring Cloud Connector] (https://github.com/stwomack/SpringWorkshop-DST/blob/master/docs/services.md)
 - Scale app, kill app (to illustrate restart), monitoring
 
 ## 1:45 - 4:00pm:
