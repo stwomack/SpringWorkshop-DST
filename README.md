@@ -1,7 +1,7 @@
 # SpringWorkshop-DST
 ## Custom DST SpringWorkshop
 
-## 12 - 2:00pm:
+## 12:00 - 2:00pm:
 - Overview of the Cloud Foundry Experience
 - Demonstration of 'cf push'
 - Scale app, kill app (to illustrate restart), monitoring
